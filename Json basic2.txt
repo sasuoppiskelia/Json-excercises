@@ -1,0 +1,28 @@
+{
+
+    "title": "product",
+    "description": "Information about a product on the e-commerce site",
+    "type": "object",
+    "properties": {
+        "productId": {
+            "description": "Unique identifier for the product",
+            "type": "integer"
+        },
+        "productName": {
+            "description": "Product name which will appear on the web site",
+            "type": "string"
+        },
+        "unitPrice": {
+            "type": "",
+            "minimum": 0,
+            "exclusiveMinimum": true
+        },
+
+        "quantity":{
+
+                      "type": "number"
+
+         }
+    },
+    "required": ["productId", "productName", "unitPrice", "quantity"]
+}

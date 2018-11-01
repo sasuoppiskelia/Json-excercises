@@ -1,0 +1,43 @@
+{
+	"order": {
+
+		"orderID": "27734835-686c-47e2-bcdf-74eb21b89d3a",
+
+		"username": "John Doe",
+
+		"userEmail": "John.Doe@email.com",
+
+
+		"shoppingCart":
+
+			[
+
+				{
+					"productID": "A174-312-57A",
+					"productName": "Hair Gel",
+					"unitPrice": "4.75 €",
+					"quantity": "whatever"
+				},
+
+				{
+					"productID": "B154-64S-63Q",
+					"productName": "Wig",
+					"unitPrice": "120 €",
+					"quantity": "whatever"
+				},
+
+				{
+					"productID": "614M-53GV-HTF ",
+					"productName ": "Leather Jacket",
+					"unitPrice": "150€ ",
+					"quantity ": "whatever "
+				}
+			],
+
+
+
+		"paid": "True"
+
+
+	}
+}

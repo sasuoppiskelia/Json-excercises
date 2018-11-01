@@ -1,0 +1,28 @@
+{
+	"name": "Potato stew",
+	"page number": 4,
+	"ingredients":
+    	[ 
+          	{
+            	"name": "potato",
+              	"quantity": 8,
+              	"unit of measurement": "kg"
+            },
+         	{
+            	"name": "vegetable",
+            	"quantity": 8,
+              	"unit of measurement": "kg"
+            },
+            {
+            	"name": "water",
+            	"quantity of measurement": "kg"
+            }         
+        ],
+ 	"instructions":
+    	[
+          "cut the potato",
+          "cut the vegetables",
+          "boil the water",
+          "eat"          
+		]
+}
